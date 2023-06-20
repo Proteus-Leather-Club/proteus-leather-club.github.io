@@ -6,7 +6,7 @@ permalink: /goals/
 
 
 - To create a space which prioritizes leatherfolk of trans experience, and enables them to discuss and explore their fetish in an environment free from cissexism and transphobia
-- To encourage members to live by the values of leather culture - **TRUST, HONOUR, STRENGTH, INTRGRITY** - in their fetish lives and carry these values in to their daily lives in a way which empowers them, through community support and accountability.
+- To encourage members to live by the values of leather culture - **TRUST, HONOUR, STRENGTH, INTEGRITY** - in their fetish lives and carry these values in to their daily lives in a way which empowers them, through community support and accountability.
 - To access and celebrate trans joy and gender euphoria, through the lens of leather aesthetics, leather culture, and sexual freedom
 - To provide education - both to the wider community on trans issues, and to our members on leather history, culture and practices, amplifying the reach of trans educators within the leather scene
 - To build bridges within the leather community through collaboration with other clubs and events
