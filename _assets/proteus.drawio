@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2023-06-26T19:46:16.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="gxnV4h8cFEz4pk9AnQNS" version="21.5.0" type="device">
+  <diagram name="Page-1" id="DC0_5XVoLyUjpjx4jLIo">
+    <mxGraphModel dx="1195" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ekXLHg4_lmrKncRpuMeB-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="210" y="360" width="20" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ekXLHg4_lmrKncRpuMeB-2" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;strokeColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="300" y="90" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ekXLHg4_lmrKncRpuMeB-3" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;strokeColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="189.5" y="90" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ekXLHg4_lmrKncRpuMeB-4" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;strokeColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ekXLHg4_lmrKncRpuMeB-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="100" y="230" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ekXLHg4_lmrKncRpuMeB-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="100" y="140" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ekXLHg4_lmrKncRpuMeB-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="210" y="140" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ekXLHg4_lmrKncRpuMeB-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="320" y="140" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ekXLHg4_lmrKncRpuMeB-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="210" y="220" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ekXLHg4_lmrKncRpuMeB-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=16.44;strokeColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="180" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ekXLHg4_lmrKncRpuMeB-11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="180" y="410" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
