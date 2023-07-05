@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![Erasmus Francisci (1627-1694) was the author of Hoellischer Proteus, Public domain, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/2/2e/Hoellischer_Proteus.jpg)
+<img class="homepage-img" src="/assets/plc.jpg" alt="Erasmus Francisci (1627-1694) was the author of Hoellischer Proteus, Public domain, via Wikimedia Commons">
