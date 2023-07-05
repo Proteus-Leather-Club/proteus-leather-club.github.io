@@ -14,9 +14,9 @@ author: Touko
 - Chapter Head: Mal (he/him)
 - Sergeant-At-Arms: Touko (he/him)
 
-<img src="/assets/proteus.png" width="5%" class="center" />
+<img src="/assets/proteus.png" class="chapter-spacer" />
 
-## Germany 
+## Germany
 
 - [Email](mailto:proteusleatherclubgermany@gmail.com)
 - [Twitter](https://twitter.com/ProteusLthrUKI)
@@ -25,8 +25,8 @@ author: Touko
 - Chapter Head: G (they/them)
 - Sergeant-At-Arms:
 
-<img src="/assets/proteus.png" width="5%" class="center" />
+<img src="/assets/proteus.png" class="chapter-spacer" />
 
-## No local chapter? 
+## No local chapter?
 
 **We want the club to continue to grow internationally - please get in touch if you're interested in starting you own chapter!**
