@@ -1,9 +1,12 @@
 - name: Conor Bone
-  role: IT
+  role: IT 
   github: conorbone
 
 - name: Touko
-  role: Sargent-At-Arms
+  role: Sargent-At-Arms - - UK & Ireland
 
 - name: Mal
-  role: 
+  role: Chaper Head - UK & Ireland
+
+- name: G
+  role: Chaper Head - Germany 
