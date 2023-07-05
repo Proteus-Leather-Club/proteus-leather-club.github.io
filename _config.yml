@@ -21,7 +21,7 @@
 title: Proteus Leather Club
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
- TRUST, HONOUR, STRENGTH, INTEGRITY
+ HONOUR, INTEGRITY, TRUST,  STRENGTH
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "proteusleather.club" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
