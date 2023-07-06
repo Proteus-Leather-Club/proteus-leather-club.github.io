@@ -22,8 +22,8 @@ author: Touko
 - [Twitter](https://twitter.com/ProteusLthrUKI)
 - [Instagram](https://www.instagram.com/proteuslthruki/)
 - [Membership Form](https://docs.google.com/forms/d/e/1FAIpQLSd-lwPkOiR_ycQuVOsDWIvgbwGR9QBiEKhkwAbN0CUnJSkrIg/viewform?pli=1)
-- Chapter Head: G (they/them)
-- Sergeant-At-Arms:
+- Chapter Head: Glenn/G (he/they)
+- Sergeant-At-Arms: Byron (he/him)
 
 <img src="/assets/proteus.png" class="chapter-spacer" />
 
