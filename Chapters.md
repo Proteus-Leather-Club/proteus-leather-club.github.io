@@ -8,8 +8,8 @@ author: Touko
 ## UK & Ireland
 
 - [Email](mailto:proteusleatheruki@gmail.com)
-- [Twitter](https://twitter.com/ProteusLthrGer)
-- [Instagram](https://www.instagram.com/proteuslthrger/)
+- [Twitter](https://twitter.com/ProteusLthrUKI)
+- [Instagram](https://www.instagram.com/proteuslthruki/)
 - [Membership Form](https://docs.google.com/forms/d/e/1FAIpQLSesCkE8_NNMP6MGhoWnjwWTc5gyu6pjnO0fh8csgxkwi004TA/viewform?usp=sf_link)
 - Chapter Head: Mal (he/him)
 - Sergeant-At-Arms: Touko (he/him)
@@ -19,8 +19,8 @@ author: Touko
 ## Germany
 
 - [Email](mailto:proteusleatherclubgermany@gmail.com)
-- [Twitter](https://twitter.com/ProteusLthrUKI)
-- [Instagram](https://www.instagram.com/proteuslthruki/)
+- [Twitter](https://twitter.com/ProteusLthrGer)
+- [Instagram](https://www.instagram.com/proteuslthrger/)
 - [Membership Form](https://docs.google.com/forms/d/e/1FAIpQLSd-lwPkOiR_ycQuVOsDWIvgbwGR9QBiEKhkwAbN0CUnJSkrIg/viewform?pli=1)
 - Chapter Head: Glenn/G (he/they)
 - Sergeant-At-Arms: Byron (he/him)
