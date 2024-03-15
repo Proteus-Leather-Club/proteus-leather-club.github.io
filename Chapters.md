@@ -11,7 +11,7 @@ author: Touko
   <li><a href="mailto:proteusleatheruki@gmail.com" data-umami-event="Email-UK-Click">Email</a></li>
   <li><a href="https://twitter.com/ProteusLthrUKI" data-umami-event="Twitter-UK-Click">Twitter</a></li>
   <li><a href="https://www.instagram.com/proteuslthruki/" data-umami-event="Instagram-UK-Click">Instagram</a></li>
-  <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSesCkE8_NNMP6MGhoWnjwWTc5gyu6pjnO0fh8csgxkwi004TA/viewform?usp=sf_link" data-umami-event="Fourm-UK-Click">Membership Form</a></li>
+  <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSesCkE8_NNMP6MGhoWnjwWTc5gyu6pjnO0fh8csgxkwi004TA/viewform?usp=sf_link" data-umami-event="Form-UK-Click">Membership Form</a></li>
   <li>Chapter Head: Mal (he/him)</li>
   <li>Sergeant-At-Arms: Touko (he/him)</li>
 </ul>
