@@ -2,7 +2,6 @@
 layout: page
 title: Chapters
 permalink: /chapters/
-author: Touko
 ---
 
 ## UK & Ireland
@@ -27,6 +26,20 @@ author: Touko
   <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSd-lwPkOiR_ycQuVOsDWIvgbwGR9QBiEKhkwAbN0CUnJSkrIg/viewform?pli=1" data-umami-event="Form-Germany-Click">Membership Form</a></li>
   <li>Chapter Head: Glenn/G (he/they)</li>
   <li>Sergeant-At-Arms: Byron (he/him)</li>
+</ul>
+
+<img src="/assets/proteus.png" class="chapter-spacer" />
+
+## Sweden
+
+<ul>
+  <li><a href="mailto:proteuslthrswe@gmail.com" data-umami-event="Email-Sweden-Click">Email</a></li>
+  <li><a href="https://twitter.com/proteuslthrswe" data-umami-event="Twitter-Sweden-Click">Twitter</a></li>
+  <li><a href="https://www.darkside.se/net/?id=2852" data-umami-event="Darkside-Sweden-Click">Darkside</a></li>
+  <li><a href="https://forms.gle/igt7LcdrupNfxnsS9" data-umami-event="Form-Sweden-Click">Membership Form</a></li>
+  <li><a href="/assets/StadgarProteusLeatherSweden.pdf" data-umami-event="Statutes-Sweden-Click">Statutes</a></li>
+  <li>Chapter Head: Puddle (he/him)</li>
+  <li>Sergeant-At-Arms: Seamus (he/him)</li>
 </ul>
 
 <img src="/assets/proteus.png" class="chapter-spacer" />
