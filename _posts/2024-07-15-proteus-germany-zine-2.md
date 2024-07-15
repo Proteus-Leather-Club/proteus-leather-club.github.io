@@ -28,7 +28,8 @@ The FTM dancer, porn performer, sex-worker, and long-time leather fetishist on l
 - From stickers to strap-ons – shopping for cool stuff
 - Collaborator spotlight: Alexander Hahne // Partner im Fokus: Alexander Hahne
 - Events
-- Curious?
+  
+Curious?
 
 ### How to get a copy?
 
