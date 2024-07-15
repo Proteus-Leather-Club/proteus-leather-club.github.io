@@ -34,7 +34,7 @@ permalink: /chapters/
 
 <ul>
   <li><a href="mailto:proteuslthrswe@gmail.com" data-umami-event="Email-Sweden-Click">Email</a></li>
-  <li><a href="https://twitter.com/proteuslthrswe" data-umami-event="Twitter-Sweden-Click">Twitter</a></li>
+  <li><a href="https://instagram.com/proteuslthrswe" data-umami-event="Instagram-Sweden-Click">Instagram</a></li>
   <li><a href="https://www.darkside.se/net/?id=2852" data-umami-event="Darkside-Sweden-Click">Darkside</a></li>
   <li><a href="https://forms.gle/igt7LcdrupNfxnsS9" data-umami-event="Form-Sweden-Click">Membership Form</a></li>
   <li><a href="/assets/StadgarProteusLeatherSweden.pdf" data-umami-event="Statutes-Sweden-Click">Statutes</a></li>
