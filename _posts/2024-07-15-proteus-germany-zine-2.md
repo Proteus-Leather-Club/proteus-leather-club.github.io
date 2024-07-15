@@ -41,12 +41,12 @@ The FTM dancer, porn performer, sex-worker, and long-time leather fetishist on l
 
 #### Online
 
-- [transfabel.de](https://neu.transfabel.de/index.php?main_page=product_info&cPath=92_133&products_id=3218) trans led onlinehsop
+- [transfabel.de](https://neu.transfabel.de/index.php?main_page=product_info&cPath=92_133&products_id=3218) trans led online shop
 
 #### Berlin
 
-- [Prinz Eisenherz](https://prinz-eisenherz.buchkatalog.de/) Bookshop
-- [Keller Kreuzberg](https://kellerkreuzberg.com/) LGBTIQ focused Shop
+- [Prinz Eisenherz](https://prinz-eisenherz.buchkatalog.de/) Bookshop (in store)
+- [Keller Kreuzberg](https://kellerkreuzberg.com/) LGBTIQ focused Shop (in store)
 
 #### London
 
