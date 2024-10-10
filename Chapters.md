@@ -16,7 +16,7 @@ published: true
   <li>Sergeant-At-Arms: Touko (he/him)</li>
 </ul>
 
-<img src="assets/img/proteus.png" class="chapter-spacer" />
+<img src="\assets\img\proteus.svg" class="chapter-spacer" />
 
 ## Germany
 
@@ -29,7 +29,7 @@ published: true
   <li>Sergeant-At-Arms: Byron (he/him)</li>
 </ul>
 
-<img src="assets/img/proteus.png" class="chapter-spacer" />
+<img src="\assets\img\proteus.svg" class="chapter-spacer" />
 
 ## Sweden
 
@@ -43,7 +43,7 @@ published: true
   <li>Sergeant-At-Arms: Seamus (he/him)</li>
 </ul>
 
-<img src="assets/img/proteus.png" class="chapter-spacer" />
+<img src="\assets\img\proteus.svg" class="chapter-spacer" />
 
 ## No local chapter?
 
