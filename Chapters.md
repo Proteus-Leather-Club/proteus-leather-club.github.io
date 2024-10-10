@@ -2,6 +2,7 @@
 layout: page
 title: Chapters
 permalink: /chapters/
+published: true
 ---
 
 ## UK & Ireland
@@ -15,7 +16,7 @@ permalink: /chapters/
   <li>Sergeant-At-Arms: Touko (he/him)</li>
 </ul>
 
-<img src="/assets/proteus.png" class="chapter-spacer" />
+<img src="assets/img/proteus.png" class="chapter-spacer" />
 
 ## Germany
 
@@ -28,7 +29,7 @@ permalink: /chapters/
   <li>Sergeant-At-Arms: Byron (he/him)</li>
 </ul>
 
-<img src="/assets/proteus.png" class="chapter-spacer" />
+<img src="assets/img/proteus.png" class="chapter-spacer" />
 
 ## Sweden
 
@@ -42,7 +43,7 @@ permalink: /chapters/
   <li>Sergeant-At-Arms: Seamus (he/him)</li>
 </ul>
 
-<img src="/assets/proteus.png" class="chapter-spacer" />
+<img src="assets/img/proteus.png" class="chapter-spacer" />
 
 ## No local chapter?
 

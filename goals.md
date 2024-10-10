@@ -2,6 +2,7 @@
 layout: page
 title: Goals
 permalink: /goals/
+published: true
 ---
 
 
