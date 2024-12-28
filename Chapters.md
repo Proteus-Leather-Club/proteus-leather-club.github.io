@@ -28,6 +28,10 @@ permalink: /chapters/
   <li>Sergeant-At-Arms: Byron (he/him)</li>
 </ul>
 
+### Calendar
+
+<iframe src="https://calendar.google.com/calendar/embed?src=proteusleatherclubgermany%40gmail.com&ctz=Europe%2FBerlin" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 <img src="/assets/proteus.png" class="chapter-spacer" />
 
 ## Sweden
