@@ -46,6 +46,10 @@ permalink: /chapters/
   <li>Sergeant-At-Arms: Seamus (he/him)</li>
 </ul>
 
+### Calender 
+
+<iframe src="https://calendar.google.com/calendar/embed?src=proteuslthrswe%40gmail.com&ctz=Europe%2FStockholm" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 <img src="/assets/proteus.png" class="chapter-spacer" />
 
 ## No local chapter?
