@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Easter Leather Week Berlin – Kickoff Gay Bar Crawl with Proteus"
-categories: zine
+categories: events
 ---
  
 Easter Leather Week Berlin – Kickoff Bar Crawl for MINTA
