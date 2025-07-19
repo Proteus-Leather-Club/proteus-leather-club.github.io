@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Norwich Pride Parade 2025"
-categories: events, norwich, pride
+tags: events norwich pride
 ---
  
 ![2025 Norwich Pride Poster](/assets/images/2025-NorwichPride.jpg)
