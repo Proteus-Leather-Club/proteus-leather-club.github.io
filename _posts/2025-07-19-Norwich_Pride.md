@@ -4,7 +4,7 @@ title: "Norwich Pride Parade 2025"
 categories: events, norwich, pride
 ---
  
-![2025 Norwich Pride Poster](assets/images/2025-NorwichPride.jpg)
+![2025 Norwich Pride Poster](/assets/images/2025-NorwichPride.jpg)
 
 ## Proteus Leather - Norwich
 
@@ -16,6 +16,5 @@ categories: events, norwich, pride
 |Parade Sets off | 13:00|
 |Picnic after at Chapelfield Gardens | at the end of the route |
 
->[!note]
 > We Will be marching with **[FatalFemmes](https://www.fatalfemmes.co.uk)**, but will carry our own Flags / Banners
 
