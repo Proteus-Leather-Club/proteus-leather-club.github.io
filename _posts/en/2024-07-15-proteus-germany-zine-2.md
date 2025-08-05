@@ -2,6 +2,7 @@
 layout: post
 title: "Proteus Leather Zine No. 2"
 categories: zine
+lang: en
 ---
 
 A Zine for & about trans & non-binary folks in the gay leather & BDSM Scene

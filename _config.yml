@@ -32,6 +32,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-polyglot
 
 minima:
   # Minima date format.
@@ -89,3 +90,12 @@ minima:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Polyglot
+languages: ["en", "de" ]
+default_lang: "en"
+exclude_from_localization: ["assets/css", "assets/img"]
+parallel_localization: true
+
+sass:
+  sourcemap: never
