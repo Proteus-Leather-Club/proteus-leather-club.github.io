@@ -25,8 +25,8 @@ lang: en
   <li><a href="https://twitter.com/ProteusLthrGer" data-goatcounter-click="Twitter-Germany-Click">Twitter</a></li>
   <li><a href="https://www.instagram.com/proteuslthrger/" data-goatcounter-click="Instagram-Germany-Click">Instagram</a></li>
   <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSd-lwPkOiR_ycQuVOsDWIvgbwGR9QBiEKhkwAbN0CUnJSkrIg/viewform?pli=1" data-goatcounter-click="Form-Germany-Click">Membership Form</a></li>
-  <li>Chapter Head: Glenn/G (he/they)</li>
-  <li>Sergeant-At-Arms: Byron (he/him)</li>
+  <li>Chapter Head: Glenn (he/him)</li>
+  <li>Sergeant-At-Arms: Emmet (he/they)</li>
 </ul>
 
 ### Calendar
