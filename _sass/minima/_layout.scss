@@ -35,7 +35,7 @@
   background-color: $background-color;
   border: 1px solid $border-color-01;
   border-radius: 5px;
-  text-align: right;
+  text-align: center;
 
   .nav-trigger {
     display: none;
@@ -88,7 +88,7 @@
 
   @media screen and (min-width: $on-medium) {
     position: static;
-    float: right;
+    //float: right;
     border: none;
     background-color: inherit;
 
