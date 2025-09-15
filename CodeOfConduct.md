@@ -3,6 +3,7 @@ layout: page
 title: Code of conduct
 permalink: /coc/
 lang: en
+page_id: CoC
 ---
 
 This is a living document, and changes may be made as we learn and grow, in consultation with the community.

@@ -3,6 +3,7 @@ layout: page
 title: Chapters
 permalink: chapters
 lang: en
+page_id: chapters
 ---
 
 ## UK & Ireland

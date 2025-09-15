@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 lang: en
+page_id: about
 ---
 
 ### Proteus Leather Club
