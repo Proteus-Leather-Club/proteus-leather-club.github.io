@@ -7,7 +7,7 @@ lang: en
 
 ## Hey, Proteus UK is starting a social in London!
 
-![Flyer](/assets/images/2026-02-05-Proteus_UK_London_Social_-_Seas_Of_Change-Flyer.png)
+![Flyer](/assets/images/2026-02-05-Proteus_UK_London_Social_-_Seas_Of_Change-Flyer.jpg)
 
 On Tuesday the 10th of February, 5pm till late, at the [Queen Adelaide](https://www.thequeenadelaide.com/) in Bethnal Green [483 Hackney Rd, E2 9ED](https://maps.app.goo.gl/uFA3H5dEEZxkiBAm8)
 
