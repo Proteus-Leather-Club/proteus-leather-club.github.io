@@ -5,7 +5,7 @@ categories: crowdfunding
 lang: en
 ---
 
-# [Proteus Needs You!](https://www.justgiving.com/crowdfunding/proteus-leather)
+[Proteus Needs You!](https://www.justgiving.com/crowdfunding/proteus-leather)
 
 Your donation to Proteus will help us:
 
