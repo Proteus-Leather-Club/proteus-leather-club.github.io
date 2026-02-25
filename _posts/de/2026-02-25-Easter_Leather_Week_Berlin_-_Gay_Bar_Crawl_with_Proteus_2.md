@@ -22,6 +22,7 @@ Starte die Easter Leather Week Berlin mit einer unvergesslichen Nacht voller Bar
 
 
 Wir besuchen men-only Locations und laden alle ein, die sich dem maskulinen Spektrum zugehörig fühlen – trans* Männer und cis Allies sind herzlich willkommen! Egal, ob du nweu in der Szene bist oder schon lange dabei – dies ist die perfekte Gelegenheit, neue und alte Freunde zu treffen.
+
 Es gibt keinen strengen Dresscode, aber es ist Easter Leather Week – also schnapp dir dein Fetish Gear und sei dabei!
 Kommt vorbei für eine Nacht voller Drinks, Cruising und großartiger Vibes! 🍻🔥
 
