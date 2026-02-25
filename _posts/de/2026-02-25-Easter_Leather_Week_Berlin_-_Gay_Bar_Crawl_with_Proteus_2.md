@@ -5,15 +5,11 @@ categories: events
 lang: de
 ---
 
-
-# 🖤 Easter Leather Week Berlin – Kickoff Gay Bar Hop mit Proteus 🏳️‍⚧️
-
 >📅 Mittwoch, April 1st | ⏰ 18:00 Uhr | 📍 Nollendorfkiez 🏳️‍🌈
 
 Starte die Easter Leather Week Berlin mit einer unvergesslichen Nacht voller Barhopping durch die legendären Gay Bars im Nollendorfkiez – organisiert von Proteus Germany!
 
-![Flyer1](assets/images/2026-02-25-Easter_Leather_Week_Berlin_-_Gay_Bar_Crawl_with_Proteus_2/2026-02-25-Easter_Leather_Week_Berlin_-_Gay_Bar_Crawl_with_Proteus_2-1.png)
-![Flyer2](assets/images/2026-02-25-Easter_Leather_Week_Berlin_-_Gay_Bar_Crawl_with_Proteus_2/2026-02-25-Easter_Leather_Week_Berlin_-_Gay_Bar_Crawl_with_Proteus_2-2.png)
+> ![Flyer1](/assets/images/2026-02-25-Easter_Leather_Week_Berlin_-_Gay_Bar_Crawl_with_Proteus_2-1.png) | ![Flyer2](/assets/images/2026-02-25-Easter_Leather_Week_Berlin_-_Gay_Bar_Crawl_with_Proteus_2-2.png)
 
 ## 🔹 Route & Zeitplan:
 
