@@ -13,11 +13,12 @@ Kick off Easter Leather Week Berlin with an unforgettable night of bar hopping t
 
 ## 🔹 Route & Schedule:
 
-18:00 - Segunda Casa - Eisenacher Str. 2, 10777 Berlin
-19:00 – Pussycat (smoke bar)  - Kalckreuthstraße 7, 10777 Berlin
-20:00 – Prinzkencht (men*-only) - Fuggerstraße 7, 10777 Berlin
-21:00 – Woof (men*-only) - Fuggerstraße 37, 10777 Berlin
-22:00 – Scheune (men*-only) - Motzstraße 25, 10777 Berlin
+|------|--------------|----------------------------------|
+|18:00 | Segunda Casa | Eisenacher Str. 2, 10777 Berlin|
+|19:00 | Pussycat (smoke bar)  | Kalckreuthstraße 7, 10777 Berlin|
+|20:00 | Prinzkencht (men*-only) | Fuggerstraße 7, 10777 Berlin|
+|21:00 | Woof (men*-only) | Fuggerstraße 37, 10777 Berlin|
+|22:00 | Scheune (men*-only) | Motzstraße 25, 10777 Berlin|
 
 
 We'll be visiting men-only spaces, welcoming the masculine spectrum, both trans guys and cis allies are invited. Whether you're a first-timer or a seasoned regular, it’s a chance to meet new and old friends.
