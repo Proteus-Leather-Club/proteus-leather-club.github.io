@@ -16,9 +16,9 @@ Starte die Easter Leather Week Berlin mit einer unvergesslichen Nacht voller Bar
 |------|--------------|----------------------------------|
 |18:00 | Segunda Casa | Eisenacher Str. 2, 10777 Berlin|
 |19:00 | Pussycat (smoke bar)  | Kalckreuthstraße 7, 10777 Berlin|
-|20:00 | Prinzkencht (men*-only) | Fuggerstraße 7, 10777 Berlin|
-|21:00 | Woof (men*-only) | Fuggerstraße 37, 10777 Berlin|
-|22:00 | Scheune (men*-only) | Motzstraße 25, 10777 Berlin|
+|20:00 | Prinzkencht (men only) | Fuggerstraße 7, 10777 Berlin|
+|21:00 | Woof (men only) | Fuggerstraße 37, 10777 Berlin|
+|22:00 | Scheune (men only) | Motzstraße 25, 10777 Berlin|
 
 
 Wir besuchen men-only Locations und laden alle ein, die sich dem maskulinen Spektrum zugehörig fühlen – trans* Männer und cis Allies sind herzlich willkommen! Egal, ob du nweu in der Szene bist oder schon lange dabei – dies ist die perfekte Gelegenheit, neue und alte Freunde zu treffen.
