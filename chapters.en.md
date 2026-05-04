@@ -37,8 +37,9 @@ page_id: chapters
 <ul>
   <li><a data-goatcounter-click="Email-Sweden-Click" href="javascript:location='mailto:\u0070\u0072\u006f\u0074\u0065\u0075\u0073\u006c\u0074\u0068\u0072\u0073\u0077\u0065\u0040\u0067\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d';void 0">Email</a></li>
   <li><a href="https://instagram.com/proteuslthrswe" data-goatcounter-click="Instagram-Sweden-Click">Instagram</a></li>
-  <li><a href="https://www.darkside.se/net/?id=2852" data-goatcounter-click="Darkside-Sweden-Click">Darkside</a></li>
+  <li><a href="https://www.darkside.se/net/?id=2852" data-goatcounter-click="Darkside-Sweden-Click">Darkside</a></li
   <li><a href="https://forms.gle/igt7LcdrupNfxnsS9" data-goatcounter-click="Form-Sweden-Click">Membership Form</a></li>
+  <li><a href="https://swe.proteusleather.club" data-goatcounter-click="MemberPage-Sweden-Click">Members Page</a></li>
   <li><a href="/assets/StadgarProteusLeatherSweden.pdf" data-goatcounter-click="Statutes-Sweden-Click">Statutes</a></li>
   <li>Chapter Head: Puddle (he/him)</li>
   <li>Sergeant-At-Arms: Seamus (he/him)</li>
