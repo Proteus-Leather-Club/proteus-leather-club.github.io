@@ -12,7 +12,7 @@ page_id: chapters
   <li><a data-goatcounter-click="Email-UK-Click" href="javascript:location='mailto:\u0070\u0072\u006f\u0074\u0065\u0075\u0073\u006c\u0065\u0061\u0074\u0068\u0065\u0072\u0075\u006b\u0069\u0040\u0067\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d';void 0">Email</a></li>
   <li><a href="https://twitter.com/ProteusLthrUKI" data-goatcounter-click="Twitter-UK-Click">Twitter</a></li>
   <li><a href="https://www.instagram.com/proteuslthruki/" data-goatcounter-click="Instagram-UK-Click">Instagram</a></li>
-  <li><a href="https://fetlife.com/ProteusLeatherUK" data-goatcounter-click="FetLife-UK-Click">Instagram</a></li>
+  <li><a href="https://fetlife.com/ProteusLeatherUK" data-goatcounter-click="FetLife-UK-Click">FetLife</a></li>
   <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSesCkE8_NNMP6MGhoWnjwWTc5gyu6pjnO0fh8csgxkwi004TA/viewform?usp=sf_link" data-goatcounter-click="Form-UK-Click">Membership Form</a></li>
   <li>Chapter Head: Mal (he/him)</li>
   <li>Sergeant-At-Arms: Touko (he/him)</li>
