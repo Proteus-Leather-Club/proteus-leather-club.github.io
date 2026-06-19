@@ -51,8 +51,8 @@ page_id: chapters
 <ul>
   <li><a data-goatcounter-click="Email-NL-Click" href="javascript:location='mailto:\u0070\u0072\u006f\u0074\u0065\u0075\u0073\u006c\u0065\u0061\u0074\u0068\u0065\u0072\u006e\u006c\u0040\u0067\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d';void 0">Email</a></li>
   <li><a href="https://www.instagram.com/proteuslthrbenelux/" data-goatcounter-click="Instagram-NL-Click">Instagram</a></li>
-  <li>Chapter Head: Rene</li>
-  <li>Sergeant-At-Arms: Dan</li>
+  <li>Chapter Head: Dan</li>
+  <li>Sergeant-At-Arms: </li>
 </ul>
 
 <img src="assets/proteus.png" class="chapter-spacer" />
