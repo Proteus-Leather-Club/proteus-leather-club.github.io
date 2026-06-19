@@ -47,6 +47,16 @@ page_id: chapters
 
 <img src="assets/proteus.png" class="chapter-spacer" />
 
+## BeNeLux
+<ul>
+  <li><a data-goatcounter-click="Email-NL-Click" href='m&#97;&#105;lto&#58;prot&#101;u&#37;&#55;&#51;&#108;ea&#116;&#104;ernl&#64;&#103;&#109;&#97;i%6C%&#50;Ec%6F%6&#68;'>pr&#111;teusl&#101;&#97;t&#104;&#101;r&#110;l&#64;g&#109;ail&#46;co&#109;>Email</a></li>
+  <li><a href="https://www.instagram.com/proteuslthrbenelux/" data-goatcounter-click="Instagram-NL-Click">Instagram</a></li>
+  <li>Chapter Head: Rene</li>
+  <li>Sergeant-At-Arms: Dan</li>
+</ul>
+
+<img src="assets/proteus.png" class="chapter-spacer" />
+
 ## No local chapter?
 
 **We want the club to continue to grow internationally - please get in touch if you're interested in starting you own chapter!**
