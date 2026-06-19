@@ -49,7 +49,7 @@ page_id: chapters
 
 ## BeNeLux
 <ul>
-  <li><a data-goatcounter-click="Email-NL-Click" href='m&#97;&#105;lto&#58;prot&#101;u&#37;&#55;&#51;&#108;ea&#116;&#104;ernl&#64;&#103;&#109;&#97;i%6C%&#50;Ec%6F%6&#68;'>pr&#111;teusl&#101;&#97;t&#104;&#101;r&#110;l&#64;g&#109;ail&#46;co&#109;</a></li>
+  <li><a data-goatcounter-click="Email-NL-Click" href="javascript:location='mailto:\u0070\u0072\u006f\u0074\u0065\u0075\u0073\u006c\u0065\u0061\u0074\u0068\u0065\u0072\u006e\u006c\u0040\u0067\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d';void 0">Email</a></li>
   <li><a href="https://www.instagram.com/proteuslthrbenelux/" data-goatcounter-click="Instagram-NL-Click">Instagram</a></li>
   <li>Chapter Head: Rene</li>
   <li>Sergeant-At-Arms: Dan</li>
